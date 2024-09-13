@@ -1,0 +1,56 @@
+C:\Users\Student\source\repos\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.exe
+C:\Users\Student\source\repos\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.deps.json
+C:\Users\Student\source\repos\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.runtimeconfig.json
+C:\Users\Student\source\repos\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.dll
+C:\Users\Student\source\repos\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.pdb
+C:\Users\Student\source\repos\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.AssemblyInfo.cs
+C:\Users\Student\source\repos\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.dll
+C:\Users\Student\source\repos\collabMDK\collabMDK\obj\Debug\net8.0\refint\collabMDK.dll
+C:\Users\Student\source\repos\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.pdb
+C:\Users\Student\source\repos\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.genruntimeconfig.cache
+C:\Users\Student\source\repos\collabMDK\collabMDK\obj\Debug\net8.0\ref\collabMDK.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\bin\Debug\net8.0\collabMDK.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\obj\Debug\net8.0\refint\collabMDK.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\obj\Debug\net8.0\collabMDK.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\Пакеев\collabMDK\collabMDK\obj\Debug\net8.0\ref\collabMDK.dll
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.exe
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.deps.json
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.runtimeconfig.json
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.dll
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.pdb
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.AssemblyInfo.cs
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.dll
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\refint\collabMDK.dll
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.pdb
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.genruntimeconfig.cache
+C:\Users\Student\Documents\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\ref\collabMDK.dll
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.exe
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.deps.json
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.runtimeconfig.json
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.dll
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\bin\Debug\net8.0\collabMDK.pdb
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.AssemblyInfoInputs.cache
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.AssemblyInfo.cs
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.csproj.CoreCompileInputs.cache
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.dll
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\refint\collabMDK.dll
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.pdb
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\collabMDK.genruntimeconfig.cache
+C:\Users\galim\Desktop\LabaMDK-01-final\collabMDK\obj\Debug\net8.0\ref\collabMDK.dll
