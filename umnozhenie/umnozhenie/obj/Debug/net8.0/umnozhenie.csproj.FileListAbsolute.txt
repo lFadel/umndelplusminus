@@ -1,0 +1,14 @@
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\bin\Debug\net8.0\umnozhenie.exe
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\bin\Debug\net8.0\umnozhenie.deps.json
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\bin\Debug\net8.0\umnozhenie.runtimeconfig.json
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\bin\Debug\net8.0\umnozhenie.dll
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\bin\Debug\net8.0\umnozhenie.pdb
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\obj\Debug\net8.0\umnozhenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\obj\Debug\net8.0\umnozhenie.AssemblyInfoInputs.cache
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\obj\Debug\net8.0\umnozhenie.AssemblyInfo.cs
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\obj\Debug\net8.0\umnozhenie.csproj.CoreCompileInputs.cache
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\obj\Debug\net8.0\umnozhenie.dll
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\obj\Debug\net8.0\refint\umnozhenie.dll
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\obj\Debug\net8.0\umnozhenie.pdb
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\obj\Debug\net8.0\umnozhenie.genruntimeconfig.cache
+C:\Users\galim\source\repos\umnozhenie\umnozhenie\obj\Debug\net8.0\ref\umnozhenie.dll
