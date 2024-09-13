@@ -1,0 +1,14 @@
+C:\Users\galim\source\repos\Plus\Plus\bin\Debug\net8.0\Plus.exe
+C:\Users\galim\source\repos\Plus\Plus\bin\Debug\net8.0\Plus.deps.json
+C:\Users\galim\source\repos\Plus\Plus\bin\Debug\net8.0\Plus.runtimeconfig.json
+C:\Users\galim\source\repos\Plus\Plus\bin\Debug\net8.0\Plus.dll
+C:\Users\galim\source\repos\Plus\Plus\bin\Debug\net8.0\Plus.pdb
+C:\Users\galim\source\repos\Plus\Plus\obj\Debug\net8.0\Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galim\source\repos\Plus\Plus\obj\Debug\net8.0\Plus.AssemblyInfoInputs.cache
+C:\Users\galim\source\repos\Plus\Plus\obj\Debug\net8.0\Plus.AssemblyInfo.cs
+C:\Users\galim\source\repos\Plus\Plus\obj\Debug\net8.0\Plus.csproj.CoreCompileInputs.cache
+C:\Users\galim\source\repos\Plus\Plus\obj\Debug\net8.0\Plus.dll
+C:\Users\galim\source\repos\Plus\Plus\obj\Debug\net8.0\refint\Plus.dll
+C:\Users\galim\source\repos\Plus\Plus\obj\Debug\net8.0\Plus.pdb
+C:\Users\galim\source\repos\Plus\Plus\obj\Debug\net8.0\Plus.genruntimeconfig.cache
+C:\Users\galim\source\repos\Plus\Plus\obj\Debug\net8.0\ref\Plus.dll
